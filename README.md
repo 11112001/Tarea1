@@ -1,2 +1,2 @@
 # Tarea1
-holi OwO
+Funciona.
